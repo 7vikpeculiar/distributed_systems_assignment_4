@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "**/*.beam": true,
+        "**/*.pdf": true,
+        "**/a.out": true
+    }
+}
